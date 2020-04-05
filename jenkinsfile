@@ -1,3 +1,4 @@
+//New Jenkfile
 node {
     stage('SCM') {
 	echo 'Gathering code from version control'
